@@ -1,5 +1,6 @@
 # Azure DevOps HOL
 ##SKCnC DEVOPS 실습입니다.
+##FIXED AB#136
 [DevOps Korea Meetup](http://meetup.devopskorea.com/201906/) 행사에서 진행하는 Hands on Lab입니다.
 
 ## 사전 준비 사항
